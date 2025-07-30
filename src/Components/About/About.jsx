@@ -16,8 +16,12 @@ const About = () => {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>I am an experienced Frontend Developer with over a 2 year term of professional expertise in the field. Throughout my career, i have had the privilege of collaborating with prestigious organizations, contributing to their success and growth.</p>
-                    <p>My passion for Frontend Development is not only reflected in my extensive experience but also in the enthusiasm and dedication i bring to each project.</p>
+                    <p>
+                        I am a Junior Frontend Developer with 2+ years of experience designing and developing responsive, user-friendly web applications. I specialize in modern JavaScript frameworks like React.js with a strong foundation in HTML, CSS, and Git for version control. Over the course of my career, I've had the opportunity to work with some organizations, contributing to their digital success through intuitive UI, clean code, and scalable front-end architecture. 
+                    </p>
+                    <p>
+                        I'm passionate about turning design concepts into functional, accessible web interfaces that not only look great but also perform reliably across devices. Whether collaborating in teams or taking ownership of solo projects, I bring consistency, curiosity, and dedication to every build.
+                    </p>
                 </div>
                 <div className="about-skills">
                     <div className="about-skill"><p>HTML & CSS</p><hr style={{width:"80%"}} /></div>
